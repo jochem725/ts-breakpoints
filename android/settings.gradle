@@ -1,0 +1,3 @@
+rootProject.name = 'TSBreakpoints'
+
+include ':app'
